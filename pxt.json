@@ -1,5 +1,5 @@
 {
-    "name": "print (\" Hi! \")",
+    "name": "print (\" Hi! World I am a computer programming.\"",
     "description": "",
     "dependencies": {
         "device": "*"
